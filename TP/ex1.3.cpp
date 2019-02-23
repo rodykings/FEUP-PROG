@@ -1,4 +1,3 @@
-/*
 #include <iostream>;
 
 using namespace std;
@@ -18,4 +17,4 @@ int main()
 	cout << "Massa:" << massa << " Kg";
 
 	return 0;
-}*/
+}

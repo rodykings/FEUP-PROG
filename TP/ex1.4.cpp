@@ -1,4 +1,4 @@
-/*#include <iostream>;
+#include <iostream>;
 
 using namespace std;
 
@@ -30,4 +30,4 @@ int main()
 	cout << "y = " << y << endl;
 
 	return 0;
-}*/
+}

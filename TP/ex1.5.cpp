@@ -1,4 +1,3 @@
-/*
 #include <iostream>;
 
 using namespace std;
@@ -31,4 +30,4 @@ int main() {
 	cout << numero_dias << " dias, " << numero_horas << " horas, " << numero_minutos <<  " minutos, " << numero_segundos << " segundos";
 
 	return 0;
-}*/
+}
