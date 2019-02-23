@@ -1,10 +1,12 @@
 
 <h1>PROG</h1>
 
-2S MIEIC FEUP - 2018/2019
+<b>2S MIEIC FEUP - 2018/2019</B>
 
 Este repositório contem o material das aulas teóricas e práticas da Unidade Curricular "Programação".
 
-Faculdade de Engenharia da Universidade do Porto
+Linguagem: <b>C/C++</b>
 
-(1ºano - Mestrado Integrado em Engenharia Informática e Computação)
+<b>Faculdade de Engenharia da Universidade do Porto
+
+(1ºano - Mestrado Integrado em Engenharia Informática e Computação)</b>
