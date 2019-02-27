@@ -1,0 +1,6 @@
+﻿  ex1.2.cpp
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\tp\ex1.2.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\tp\ex1.2.cpp(8): warning C4101: 'dif1': unreferenced local variable
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\tp\ex1.2.cpp(8): warning C4101: 'dif2': unreferenced local variable
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\tp\ex1.2.cpp(8): warning C4101: 'dif3': unreferenced local variable
+  ex1.2.vcxproj -> C:\Users\rodri\Documents\FEUP\1ºANO\2ºSEMESTRE\PROG\TP\Debug\ex1.2.exe
