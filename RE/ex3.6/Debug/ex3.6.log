@@ -1,0 +1,9 @@
+﻿  ex3.6.cpp
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex3.6\ex3.6.cpp(19): error C2144: syntax error: 'char' should be preceded by ')'
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex3.6\ex3.6.cpp(19): error C2660: 'isHydroxide': function does not take 0 arguments
+  c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex3.6\ex3.6.cpp(8): note: see declaration of 'isHydroxide'
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex3.6\ex3.6.cpp(19): error C2144: syntax error: 'char' should be preceded by ';'
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex3.6\ex3.6.cpp(19): error C2760: syntax error: unexpected token ']', expected 'id-expression'
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex3.6\ex3.6.cpp(19): error C2143: syntax error: missing ']' before '('
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex3.6\ex3.6.cpp(19): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex3.6\ex3.6.cpp(19): error C2059: syntax error: ')'

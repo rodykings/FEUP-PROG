@@ -1,0 +1,3 @@
+﻿  ex4.1.cpp
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex4.1\ex4.1.cpp(38): error C2133: 'str': unknown size
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex4.1\ex4.1.cpp(39): error C2110: '+': cannot add two pointers
