@@ -1,0 +1,6 @@
+﻿  ex3.6.cpp
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex3.6\ex3.6.cpp(128): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex3.6\ex3.6.cpp(129): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex3.6\ex3.6.cpp(65): warning C4715: 'monthDays': not all control paths return a value
+c:\users\rodri\documents\feup\1ºano\2ºsemestre\prog\re\ex3.6\ex3.6.cpp(178): warning C4715: 'monthPT': not all control paths return a value
+  ex3.6.vcxproj -> C:\Users\rodri\Documents\FEUP\1ºANO\2ºSEMESTRE\PROG\RE\x64\Debug\ex3.6.exe
